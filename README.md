@@ -1,0 +1,1 @@
+I created the student in the studentModel.js, I created the teacher in the teacherModel.js. All CRUD operations are in the student or teacherController.js.
